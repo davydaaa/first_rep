@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <math.h>
-
+//firts project
 int main()
 {
     float x,y;
